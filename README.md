@@ -3,4 +3,5 @@ This is a repository for _Snappy Data Management_, a textbook by Colin Conrad, P
 - What Programming for Data Science is Like
 - Analyze a Dating Apps Survey
 - Detect Heart Disease in Anonymous Patients
+  
 These exercises are also described in the textbook chapters 9, 10 and 11. 
